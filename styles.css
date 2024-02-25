@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image:url('drew.png');
+    background-color:	#008080;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.container {
+    max-width: 500px;
+    margin: 220px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+h1 {
+    color:#008080;
+}
+#drew{
+    color:	#20B2AA;
+}
+
+button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: 	#008080;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #008080;
+}
+
+#affirmation {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
